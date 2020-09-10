@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c4d2aab-87fc-4bca-b3eb-38c6d776884e" name="Default Changelist" comment="Updated Data models and test suite" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1g1WDYahWW1Gu20cP347zAYwlTb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DBE.Init.BalloonShown" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c4d2aab-87fc-4bca-b3eb-38c6d776884e" name="Default Changelist" comment="" />
+      <created>1597282460094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597282460094</updated>
+      <workItem from="1597282466862" duration="1799000" />
+      <workItem from="1597756506158" duration="16503000" />
+      <workItem from="1597903574213" duration="862000" />
+      <workItem from="1597984150136" duration="1181000" />
+      <workItem from="1599617374861" duration="11559000" />
+    </task>
+    <task id="LOCAL-00001" summary="Updated Data models and test suite">
+      <created>1599702809768</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599702809771</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated Data models and test suite" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Data models and test suite" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="319" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599512995749">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="319" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.23.2560.1057/0.23.1440.814@0.23.1440.814" timestamp="1599512995749" />
+    <state x="3096" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1597984063051">
+      <screen x="1440" y="23" width="2560" height="1057" />
+    </state>
+    <state x="3096" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1440.23.2560.1057/0.23.1440.822@1440.23.2560.1057" timestamp="1597984063051" />
+    <state x="221" y="110" key="SettingsEditor" timestamp="1597857713442">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/1440.0.2560.1080/0.0.1440.900@0.0.1440.900" timestamp="1597757181040" />
+    <state x="221" y="110" key="SettingsEditor/1440.23.2560.977/0.23.1440.877@0.23.1440.877" timestamp="1597857713442" />
+    <state x="2684" y="23" width="1316" height="969" key="dock-window-1" timestamp="1599699983624">
+      <screen x="1440" y="23" width="2560" height="977" />
+    </state>
+    <state x="2682" y="23" width="1318" height="969" key="dock-window-1/1440.23.2560.1057/0.23.1440.816@1440.23.2560.1057" timestamp="1599638274481" />
+    <state x="2684" y="23" width="1316" height="969" key="dock-window-1/1440.23.2560.977/0.23.1440.877@1440.23.2560.977" timestamp="1599699983624" />
+  </component>
+</project>
