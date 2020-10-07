@@ -42,7 +42,7 @@ const EMS = (/* props */) => {
         </div>
        
       </div>
-      {beds && <Beds />}
+      {beds && <Beds />}   
       {ringDown && <RingDown history={history} saveHistory={saveHistory} />}
     </div>
   );
